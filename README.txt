@@ -1,0 +1,1 @@
+Should we have a master class for the forms, that opens up all the instance variables, and then sets the classes properties, using the current data?
